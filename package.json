@@ -1,0 +1,14 @@
+{
+  "name": "second-order-thinking-mcp",
+  "version": "1.0.0",
+  "description": "Second-Order Thinking MCP Server for Claude",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "zod": "latest"
+  }
+}
